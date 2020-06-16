@@ -2,21 +2,18 @@
 
 ## Technical Analysis Deliverable 1: A DataFrame that summarizes the key metrics for the ride-sharing data by city type.
 
-![](PyBer Final DataFrame.png)
+Drivers make more money per ride in rural areas.  Fares per ride cost more in rural areas.  But there are far fewer total rides in rural areas.
+Most of the PyBer's money is made in the Urban areas.
 
-
-
-
-
-
+![](PyBerFinalDataFrame.png)
 
 ## Technical Analysis Deliverable 2: A multiple-line chart, with one line for each city type, that shows the sum of the fares for each week.
 
+![](Challenge_fare_summary.png)
 
-
-
-
+Fares are pretty constant from January to April.  Urban rides have greater volume followed by suburban and then rural.
 
 
 
 ## Delivering Results: A written report of your results, saved in a README.md document on your GitHub repository.
+
