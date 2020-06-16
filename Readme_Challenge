@@ -20,7 +20,8 @@ Most of the PyBer's money is made in the Urban areas.
 Fares are pretty constant from January to April.  Urban rides have greater volume followed by suburban and then rural.
 
 
-Some challenges:  creating the dataframe and resampling.  I did some reading on resampling.
+Some challenges:  creating the dataframe and resampling.  I did some reading on resampling.  also, getting the graphics to appear in
+the readme file.  Not sure this is working.
 
 ## Delivering Results: A written report of your results, saved in a README.md document on your GitHub repository.
 You are reading it.
